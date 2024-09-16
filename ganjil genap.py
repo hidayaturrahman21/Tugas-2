@@ -1,4 +1,4 @@
-bilangan=int(input("masukan angka :"))
+bilangan=int(input("masukan bilangan :"))
 
 if bilangan % 2 == 0 :
     
